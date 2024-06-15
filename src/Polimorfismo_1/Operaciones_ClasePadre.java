@@ -12,10 +12,10 @@ public abstract class Operaciones_ClasePadre {
     
     public void PedirDatos(){
         
-        System.out.print("Dame el Primer Valor : ");
+        System.out.print("Dame el Primer Valor: ");
         valor1 = entrada.nextInt();
         
-        System.out.print("Dame el Segundo Valor : ");
+        System.out.print("Dame el Segundo Valor: ");
         valor2 = entrada.nextInt();
         
     }
